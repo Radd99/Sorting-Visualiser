@@ -1,7 +1,7 @@
 # Sorting Visualiser
 
 This is a project I have developed to visualise various sorting algorithms
-Please use it in desktop
+Please use it on a bigger screen.
 
 # Getting Started with Create React App
 

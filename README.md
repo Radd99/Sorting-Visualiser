@@ -1,3 +1,8 @@
+# Sorting Visualiser
+
+This is a project I have developed to visualise various sorting algorithms
+Please use it in desktop
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

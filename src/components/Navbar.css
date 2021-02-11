@@ -1,0 +1,29 @@
+.nav {
+      background-color: #393e46;
+      color: white;
+      display: flex;
+      height: 11vh;
+      align-items: center;
+}
+
+.heading {
+      margin-left: 5rem;
+      margin-right: 15rem;
+}
+
+.buttons {
+      border: none;
+      font-size: medium;
+      background-color: #393e46;
+      color: white;
+      margin: 0 1rem;
+      padding: 0.3rem 1rem;
+      border-radius: 6px;
+}
+
+.buttons:hover {
+      color: grey;
+      cursor: pointer;
+}
+
+

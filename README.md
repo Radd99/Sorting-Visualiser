@@ -2,6 +2,7 @@
 
 This is a project I have developed to visualise various sorting algorithms
 Please use it on a bigger screen.
+You can try out the app here : https://sharp-pike-d0dd89.netlify.app/
 
 # Getting Started with Create React App
 

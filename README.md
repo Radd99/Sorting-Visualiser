@@ -1,7 +1,8 @@
 # Sorting Visualiser
 
-This is a project I have developed to visualise various sorting algorithms
-Please use it on a bigger screen.
+This is a project I have developed to visualise various sorting algorithms. This project includes bubble sort, insertion sort, heap sort, merge sort and quicksort.
+Please use it on a bigger screen (sorry but the visualisation does not look good on mobiles).
+You can try out the app here : https://sharp-pike-d0dd89.netlify.app/
 
 # Getting Started with Create React App
 

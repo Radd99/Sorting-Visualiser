@@ -1,31 +1,35 @@
+body {
+	background-color: #ebf0f8;
+}
+
 .barContainer {
-      display: flex;
-      padding: 2rem 0;
-      text-align: center;
-      width: fit-content;
-      margin: auto;
-      align-items: flex-end;
-      height: 520px;
+	display: flex;
+	padding: 2rem 0;
+	text-align: center;
+	width: fit-content;
+	margin: auto;
+	align-items: flex-end;
+	height: 520px;
 }
 
 .slideContainer {
-      display: flex;
-      text-align: center;
-      align-items: center;
-      width: fit-content;
-      position: fixed;
-      bottom: 2rem;
-      margin-left: 50%;
-      transform: translateX(-50%);
+	display: flex;
+	text-align: center;
+	align-items: center;
+	width: fit-content;
+	position: fixed;
+	bottom: 2rem;
+	margin-left: 50%;
+	transform: translateX(-50%);
 }
 
 .slider {
-      opacity: 0.7;
-      width: 140px;
-      transition: opacity 0.2s;
-      margin: 0 3rem;
+	opacity: 0.7;
+	width: 140px;
+	transition: opacity 0.2s;
+	margin: 0 3rem;
 }
 
 .slider:hover {
-      opacity: 1;
+	opacity: 1;
 }
